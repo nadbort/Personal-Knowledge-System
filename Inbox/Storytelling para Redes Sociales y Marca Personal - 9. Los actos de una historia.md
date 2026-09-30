@@ -5,7 +5,7 @@ title: Storytelling para Redes Sociales y Marca Personal - 9. Los actos de una h
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205061
 source: udemy.com
 created: 2026-09-30T12:05:16.976Z
-updated: 2026-09-30T12:05:16.998Z
+updated: 2026-09-30T12:10:15.706Z
 tags:
   - clipping/video
 platform: udemy
@@ -33,17 +33,12 @@ duration: 12:19
   
   Estos 3 actos tienen un nivel de intensidad comenzando suave desde la introduccion, aunmentando intensidad en el nudo, una vez se alcance lo mas critico del nudo, vuelve y baja la intensidad den el desenlace.
   ![[Storytelling para Redes Sociales y Marca 3-37 7263ee.jpg]]
+- [**5:14**](<https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205061?start=314>) Los plots points su objetivo dentro de los 3 actos, es actuar como momento de transicion entre un acto y el siguiente. Estos plots points deben actuar como un suceso inesperado, que exarsevan la intensidad para alcanzar un climax.
+  ![[Storytelling para Redes Sociales y Marca 5-14 83ca55.jpg]]
 <!-- /notes-ai:notes -->
 
 <!-- notes-ai:transcript -->
 <!-- /notes-ai:transcript -->
 
 <!-- notes-ai:related -->
-## Notas relacionadas
-
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 8. La misma historia|Storytelling para Redes Sociales y Marca Personal - 8. La misma historia]]
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia|Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia?]]
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 2. El poder de una historia|Storytelling para Redes Sociales y Marca Personal - 2. El poder de una historia]]
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 4. El poder del storytelling|Storytelling para Redes Sociales y Marca Personal - 4. El poder del storytelling]]
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 6. No hay sorytelling sin st|Storytelling para Redes Sociales y Marca Personal - 6. No hay sorytelling sin story]]
 <!-- /notes-ai:related -->
