@@ -5,7 +5,7 @@ title: Storytelling para Redes Sociales y Marca Personal - 8. La misma historia
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205055
 source: udemy.com
 created: 2026-09-30T01:45:03.839Z
-updated: 2026-09-30T01:45:03.850Z
+updated: 2026-09-30T01:48:28.316Z
 tags:
   - clipping/video
 platform: udemy
@@ -23,6 +23,12 @@ duration: 11:06
 ## Notas
 
 <!-- notes-ai:notes -->
+- [**4:45**](<https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205055?start=285>) La estructura de una historia se divide en 2 dualidades:
+  
+  1- De forma vertical: se divide entre lo ordinario y lo especial. El personaje usualmente vive en una zona de confort y pasa a un universo especial o aventura donde todo es muy diferente a su zona de confort. 
+  
+  2- De forma horizontal. va desde el status hacia el cambio, en el cuadrante derecho, vemos el estado normal del personaje y va cruzar hacia el cambio.
+  ![[Storytelling para Redes Sociales y Marca 4-45 246283.jpg]]
 - [**8:28**](<https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205055?start=508>) Los 8 niveles de una historia son los siguientes:
   
   1- Confort: personaje en una zona de confort
@@ -47,7 +53,4 @@ duration: 11:06
 <!-- /notes-ai:transcript -->
 
 <!-- notes-ai:related -->
-## Notas relacionadas
-
-- [[Inbox/Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia|Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia?]]
 <!-- /notes-ai:related -->
