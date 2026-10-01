@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 9. Los actos de una historia
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205061
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205061"
 duration: 12:19
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/Los tres actos y los plot points como estructura narrativa|Los tres actos y los plot points como estructura narrativa]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 9. Los actos de una historia
