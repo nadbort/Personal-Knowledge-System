@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 14. Protagonistas y arquetipos
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205077
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205077"
 duration: 11:38
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/Los arquetipos son modelos de personajes universales que el cerebro reconoce al|Los arquetipos son modelos de personajes universales que el cerebro reconoce al instante]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 14. Protagonistas y arquetipos

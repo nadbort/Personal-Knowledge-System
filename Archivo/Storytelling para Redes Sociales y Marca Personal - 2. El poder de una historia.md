@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 2. El poder de una historia
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205009
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205009"
 duration: 4:20
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/Las historias como base de la supervivencia y la construcción social humana|Las historias como base de la supervivencia y la construcción social humana]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 2. El poder de una historia

@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 15. Todo se trata del porqué
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205085
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205085"
 duration: 10:09
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/El porqué como pregunta esencial para conectar emocionalmente|El porqué como pregunta esencial para conectar emocionalmente]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 15. Todo se trata del porqué
