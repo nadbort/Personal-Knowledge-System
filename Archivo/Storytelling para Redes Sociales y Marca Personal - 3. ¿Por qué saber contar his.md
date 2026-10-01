@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 3. ¿Por qué saber contar historias?
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205019
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205019"
 duration: 7:25
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/La caída de la capacidad de atención hace imprescindible el storytelling|La caída de la capacidad de atención hace imprescindible el storytelling]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 3. ¿Por qué saber contar historias?
