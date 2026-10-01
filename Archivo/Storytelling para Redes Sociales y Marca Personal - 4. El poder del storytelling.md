@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 4. El poder del storytelling
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205023
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205023"
 duration: 13:07
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/El storytelling es el control de la interpretación del oyente|El storytelling es el control de la interpretación del oyente]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 4. El poder del storytelling
