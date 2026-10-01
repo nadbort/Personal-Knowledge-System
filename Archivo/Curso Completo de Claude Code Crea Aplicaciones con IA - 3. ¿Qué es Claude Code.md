@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: "Curso Completo de Claude Code: Crea Aplicaciones con IA - 3. ¿Qué es Claude Code y por qué es diferente?"
 url: https://www.udemy.com/course/curso-completo-de-claude-code-crea-aplicaciones-con-ia/learn/lecture/55373327
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "55373327"
 duration: 14:15
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/Claude Code es un agente, no un chatbot ni un copilot|Claude Code es un agente, no un chatbot ni un copilot]]"
 ---
 
 # Curso Completo de Claude Code: Crea Aplicaciones con IA - 3. ¿Qué es Claude Code y por qué es diferente?
