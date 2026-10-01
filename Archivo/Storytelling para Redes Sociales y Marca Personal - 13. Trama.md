@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 13. Trama
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205073
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205073"
 duration: 6:51
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/La trama es la estructura interna; el storytelling es cómo se cuenta|La trama es la estructura interna; el storytelling es cómo se cuenta]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 13. Trama

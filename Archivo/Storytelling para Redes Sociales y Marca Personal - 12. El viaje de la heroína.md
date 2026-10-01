@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 12. El viaje de la heroína
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205069
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205069"
 duration: 7:27
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/El viaje de la heroína transformación interna frente a objetivo externo|El viaje de la heroína: transformación interna frente a objetivo externo]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 12. El viaje de la heroína
