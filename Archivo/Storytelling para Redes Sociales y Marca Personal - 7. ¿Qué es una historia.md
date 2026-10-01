@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia?
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205047
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205047"
 duration: 6:35
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/Los cuatro elementos básicos de una historia|Los cuatro elementos básicos de una historia]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 7. ¿Qué es una historia?
