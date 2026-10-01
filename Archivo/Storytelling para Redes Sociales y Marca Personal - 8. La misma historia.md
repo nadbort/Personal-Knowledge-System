@@ -1,5 +1,4 @@
 ---
-clipper: notes-ai
 type: video
 title: Storytelling para Redes Sociales y Marca Personal - 8. La misma historia
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/learn/lecture/52205055
@@ -11,6 +10,8 @@ tags:
 platform: udemy
 video_id: "52205055"
 duration: 11:06
+archived: 2026-10-01
+superseded_by: "[[Permanent Notes/La estructura de una historia se divide en dos dualidades vertical (ordinario es|La estructura de una historia se divide en dos dualidades: vertical (ordinario/especial) y horizontal (status/cambio)]]"
 ---
 
 # Storytelling para Redes Sociales y Marca Personal - 8. La misma historia
