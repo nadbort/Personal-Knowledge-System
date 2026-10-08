@@ -24,5 +24,5 @@ updated: 2026-10-08T15:42:26.359Z
 > > [!question] ¿Cómo aplicarías la pregunta del porqué en la próxima historia que escribas para tu marca personal?
 
 <!-- notes-ai:nav -->
-⬅️ [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-14 Protagonistas y arquetipos|14. Protagonistas y arquetipos]] · 📚 [[Cursos/Storytelling para Redes Sociales y Marca Personal/_curso|Storytelling para Redes Sociales y Marca Personal]]
+⬅️ [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-14 Protagonistas y arquetipos|14. Protagonistas y arquetipos]] · 📚 [[Cursos/Storytelling para Redes Sociales y Marca Personal/_curso|Storytelling para Redes Sociales y Marca Personal]] · [[Cursos/Storytelling para Redes Sociales y Marca Personal/M3-17 Storymaking|17. Storymaking]] ➡️
 <!-- /notes-ai:nav -->

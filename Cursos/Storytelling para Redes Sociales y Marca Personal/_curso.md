@@ -6,10 +6,12 @@ course_id: udemy-storytelling-para-redes-sociales-y-marca-personal
 platform: udemy
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/
 created: 2026-10-08T15:42:26.093Z
-updated: 2026-10-08T15:42:26.389Z
+updated: 2026-10-08T23:05:41.686Z
 ---
 
 <!-- notes-ai:indice -->
+## Módulo 1
+
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-02 El poder de una historia|2. El poder de una historia]]
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-03 ¿Por qué saber contar historias|3. ¿Por qué saber contar historias?]]
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-04 El poder del storytelling|4. El poder del storytelling]]
@@ -22,4 +24,8 @@ updated: 2026-10-08T15:42:26.389Z
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-13 Trama|13. Trama]]
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-14 Protagonistas y arquetipos|14. Protagonistas y arquetipos]]
 - [[Cursos/Storytelling para Redes Sociales y Marca Personal/M1-15 Todo se trata del porqué|15. Todo se trata del porqué]]
+
+## Módulo 3: Contando la historia
+
+- [[Cursos/Storytelling para Redes Sociales y Marca Personal/M3-17 Storymaking|17. Storymaking]]
 <!-- /notes-ai:indice -->
