@@ -6,7 +6,8 @@ course_id: udemy-storytelling-para-redes-sociales-y-marca-personal
 platform: udemy
 url: https://www.udemy.com/course/storytelling-para-redes-sociales-y-marca-personal/
 created: 2026-10-08T15:42:26.093Z
-updated: 2026-10-08T23:05:41.686Z
+updated: 2026-10-09T00:48:02.899Z
+language: es
 ---
 
 <!-- notes-ai:indice -->
@@ -27,5 +28,5 @@ updated: 2026-10-08T23:05:41.686Z
 
 ## Módulo 3: Contando la historia
 
-- [[Cursos/Storytelling para Redes Sociales y Marca Personal/M3-17 Storymaking|17. Storymaking]]
+- [[Cursos/Storytelling para Redes Sociales y Marca Personal/M3-17 Storymaking|17. Storymaking]] — Prueba de grabación de una lección de storytelling; el contenido principal aún no se ha desarrollado.
 <!-- /notes-ai:indice -->
